@@ -12,3 +12,7 @@
 - Make Migration `python3 manage.py makemigrations`
 - Migration `python3 manage.py createsuperuser`
 - Users `python3 manage.py startapp users`
+
+### Relevant links
+- [Django Textbook](./book.pdf)
+
